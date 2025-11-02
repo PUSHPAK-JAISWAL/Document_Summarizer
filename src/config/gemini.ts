@@ -1,5 +1,5 @@
 // Store your Gemini API key here
-export const GEMINI_API_KEY = "AIzaSyAi8rlvAR2goxYVhUxrRmWTXq_asSejdZY";
+export const GEMINI_API_KEY = "Your_gemini_api_key";
 
 // Gemini API configuration
 export const GEMINI_CONFIG = {
