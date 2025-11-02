@@ -135,4 +135,4 @@ The app automatically splits large documents into manageable chunks of approxima
 
 ## License
 
-MIT License
+unlicense License
