@@ -132,7 +132,3 @@ The app automatically splits large documents into manageable chunks of approxima
 - Summary comparison tools
 - Adjustable summary length
 - Multi-language support
-
-## License
-
-unlicense License
